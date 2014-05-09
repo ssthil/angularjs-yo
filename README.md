@@ -14,7 +14,7 @@ $ mkdir angularjs-yo
 ```
 $ npm instal -g yo
 ```
-##If you are using npm 1.2.10 or above, this will also automatically install grunt and bower for you. If you're on an older version of npm, you will need to install them manually:
+If you are using npm 1.2.10 or above, this will also automatically install grunt and bower for you. If you're on an older version of npm, you will need to install them manually:
 ```
 $ npm install -g grunt-cli bower
 ```
