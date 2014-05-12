@@ -10,7 +10,7 @@ Yeoman generator for AngularJS - lets you quickly set up a project with sensible
 ```
 $ mkdir angularjs-yo
 ```
-## install yo and other required tools
+## Install yo and other required tools
 ```
 $ npm instal -g yo
 ```
@@ -21,7 +21,6 @@ $ npm install -g grunt-cli bower
 ## Basic scaffolding
 ```
 $ npm install -g generator-webapp
-
 $ yo webapp
 ```
 ## Scaffolding an AngularJS app
