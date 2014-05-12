@@ -1,7 +1,7 @@
-AngularJS-Yoeman
+AngularJS-Yeoman
 ============
 
-AngularJS development with Yoeman, Grunt and Bower
+AngularJS development with Yeoman, Grunt and Bower
 
 ## AngularJS generator
 Yeoman generator for AngularJS - lets you quickly set up a project with sensible defaults and best practises.
